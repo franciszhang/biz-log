@@ -2,7 +2,7 @@
 #### 1.配置
 ```
 #是否开启操作日志
-operation-log.enable=true
+biz.log.enable=true
 #执行前校验配置[类和方法名]，以#分割
 biz.log.valid-check=class#method
 #例如：biz.log.valid-check=com.francis.biz.log.demo.log.OperationUtil#isSuccess
